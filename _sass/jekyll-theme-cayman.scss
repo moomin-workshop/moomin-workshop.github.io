@@ -115,7 +115,8 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("./moomin-logo.png");
-  background-size: 100% auto;
+  background-size: auto 100%;
+  background-repeat: no-repeat;
 
   @include large {
     padding: 5rem 6rem;
