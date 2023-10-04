@@ -1,5 +1,5 @@
-# MOOMIN: The First workshop on Modular and Open Multilingual NLP
+# MOOMIN
 
-Welcome to the website for the MOOMIN workshop, the first workshop on Modular and Open Multilingual NLP.
+Welcome to the website for the MOOMIN workshop, the first workshop on Modular and Open Multilingual NLP, to be held at EACL 2024.
 
 This website is still under construction.
