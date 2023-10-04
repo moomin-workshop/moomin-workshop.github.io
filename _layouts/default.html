@@ -20,13 +20,16 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/cfp">Calls</a></li>
-          <li><a href="/program">Program</a></li>
-        </ul>
-      </nav>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="topnav" id="myTopnav">
+  <a href="/" class="active">Home</a>
+  <a href="/cfp">Call for papers</a>
+  <a href="/program">Program</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
       {{ content }}
 
       <footer class="site-footer">
