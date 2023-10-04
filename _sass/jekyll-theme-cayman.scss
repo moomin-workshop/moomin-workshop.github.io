@@ -394,7 +394,7 @@ nav ul {
 
  /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: #393939;
   overflow: hidden;
 }
 
@@ -407,17 +407,18 @@ nav ul {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: Moomin;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #cd7f32;
   color: black;
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #cd7f32;
   color: white;
 }
 
