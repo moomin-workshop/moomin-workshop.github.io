@@ -123,6 +123,7 @@ nav ul {
   background-image: url("./moomin-logo+acronym.png");
   background-size: auto 100%;
   background-repeat: no-repeat;
+  min-height: 280px;
   @media screen and (max-width: 900px) {
     background-position: center; 
   }
