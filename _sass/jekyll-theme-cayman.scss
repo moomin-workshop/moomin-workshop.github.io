@@ -120,7 +120,6 @@ nav ul {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./moomin-logo+acronym.png");
   background-size: auto 100%;
   background-repeat: no-repeat;
   min-height: 280px;
@@ -130,14 +129,17 @@ nav ul {
 
   @include large {
     padding: 5rem 6rem;
+    background-image: url("./moomin-banner.png");
   }
 
   @include medium {
     padding: 3rem 4rem;
+    background-image: url("./moomin-banner.png");
   }
 
   @include small {
     padding: 2rem 1rem;
+    background-image: url("./moomin-logo+acronym.png");
   }
 }
 
@@ -145,6 +147,7 @@ nav ul {
   margin-top: 0;
   margin-bottom: 0.1rem;
   font-family: "Moomin";
+  display: none;
 
   @include large {
     font-size: 2.25rem;
@@ -158,15 +161,13 @@ nav ul {
     font-size: 1.75rem;
   }
 
-  @media screen and (max-width: 900px) {
-    display: none; 
-  }
 }
 
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
+  display: none;
 
   @include large {
     font-size: 1.25rem;
@@ -180,9 +181,6 @@ nav ul {
     font-size: 1rem;
   }
  
-  @media screen and (max-width: 900px) {
-    display: none; 
-  }
 
 }
 
