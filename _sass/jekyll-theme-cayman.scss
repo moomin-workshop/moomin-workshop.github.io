@@ -127,16 +127,21 @@ nav ul {
 
   @include large {
     padding: 5rem 6rem;
-    background-image: url("./moomin-banner.png");
   }
 
   @include medium {
     padding: 3rem 4rem;
-    background-image: url("./moomin-banner.png");
   }
 
   @include small {
     padding: 2rem 1rem;
+  }
+    
+  @media screen and (min-width: 920px) {
+    background-image: url("./moomin-banner.png");
+  }
+
+  @media screen and (max-width: 920px) {
     background-image: url("./moomin-logo+acronym.png");
   }
 }
