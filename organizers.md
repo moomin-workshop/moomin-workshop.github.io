@@ -24,14 +24,9 @@ He is a leading member of [AYA Open Science Initiative](https://txt.cohere.com/a
 Raúl is a soon-to-defend PhD student at the University of Helsinki. His research is centered around the ERC project [FoTran](https://blogs.helsinki.fi/language-technology/fotran/), where he develops models for natural language understanding using multilingual data and neural machine translation systems; also 
 analyzing the internal dynamics of those systems. He is a current co-organizer for the [SemEval 2024 shared task SHROOM](https://helsinki-nlp.github.io/shroom/).
 
-##### [Ivan Vulić](sites.google.com/site/ivanvulic/), University of Cambridge &amp; PolyAI 
+##### [Ivan Vulic](sites.google.com/site/ivanvulic/), University of Cambridge and PolyAI 
 Ivan is a Principal Research Associate and a Royal Society University Research Fellow in the Language Technology Lab at the University of Cambridge, and a Senior Scientist at PolyAI.
 His research interests are in multilingual, multimodal and modular representation learning, and transfer learning for low-resource languages and applications such as task-oriented dialogue systems. 
-
-- Jörg Tiedemann, University of Helsinki
-- Ahmet Üstün, Cohere For AI
-- Raúl Vázquez, University of Helsinki
-- Ivan Vulić, University of Cambridge & PolyAI
 
 ### Program Committee
 A list of program committee members will be available shortly.
