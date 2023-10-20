@@ -4,12 +4,12 @@ For inquiries, please contact [moomin.nlp.workshop@gmail.com](mailto:moomin.nlp.
 
 ### Workshop Organizers
 
-##### [Timothee Mickus](timotheemickus.github.io), University of Helsinki.
+##### [Timothee Mickus](timotheemickus.github.io), University of Helsinki
 Timothee Mickus is a  post-doctoral researcher at the University of Helsinki, within the ERC project [_Found in Translation_ (FoTran)](https://blogs.helsinki.fi/language-technology/fotran/), where he develops and maintains the [MAMMOTH modular MT framework](https://github.com/Helsinki-NLP/mammoth).
 His research focuses on representation learning, model interpretability and natural language generation. 
 He previously organized the CoDWoE shared task at SemEval 2022 and is a current co-organizer for the [SHROOM shared task at SemEval 2024](https://helsinki-nlp.github.io/shroom/).
 
-##### [Jörg Tiedemann](blogs.helsinki.fi/tiedeman), University of Helsinki.
+##### [Jörg Tiedemann](blogs.helsinki.fi/tiedeman), University of Helsinki
 Jörg Tiedemann is a professor of language technology at the University of Helsinki. 
 His research interests are in multilingual and cross-lingual NLP including machine translation and representation learning. 
 He is the PI of the ERC project [_Found in Translation_ (FoTran)](https://blogs.helsinki.fi/language-technology/fotran/) and the [GreenNLP](https://greennlp.github.io/) project, which are both supporting the workshop. 
