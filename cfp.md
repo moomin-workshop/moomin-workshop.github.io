@@ -1,4 +1,4 @@
-**_Submission website:_** https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN 
+[**_Link to the submission website_**](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN)
 
 We invite submissions to the first edition of the MOOMIN workshop on Modular and Open Multilingual NLP, to be held at EACL 2024 on March 21 or 22, 2024.
 
