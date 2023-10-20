@@ -15,7 +15,7 @@ His research interests are in multilingual and cross-lingual NLP including machi
 He is the PI of the ERC project [_Found in Translation_ (FoTran)](https://blogs.helsinki.fi/language-technology/fotran/) and the [GreenNLP](https://greennlp.github.io/) project, which are both supporting the workshop. 
 
 ##### [Ahmet Üstün](ahmetustun.github.io), Cohere For AI 
-Ahmet Üstün is a research scientist at Cohere For AI. 
+Ahmet Üstün is a research scientist at [Cohere For AI](https://cohere.for.ai/). 
 He has previously earned a PhD from the University of Groningen. 
 His research interests are multi-task, multilingual, and efficient natural language processing with a particular focus on modular approaches and low-resource languages. 
 He is a leading member of [AYA Open Science Initiative](https://txt.cohere.com/aya-multilingual/).
@@ -25,7 +25,7 @@ Raúl is a soon-to-defend PhD student at the University of Helsinki. His researc
 analyzing the internal dynamics of those systems. He is a current co-organizer for the [SemEval 2024 shared task SHROOM](https://helsinki-nlp.github.io/shroom/).
 
 ##### [Ivan Vulic](sites.google.com/site/ivanvulic/), University of Cambridge and PolyAI 
-Ivan is a Principal Research Associate and a Royal Society University Research Fellow in the Language Technology Lab at the University of Cambridge, and a Senior Scientist at PolyAI.
+Ivan is a Principal Research Associate and a Royal Society University Research Fellow in the [Language Technology Lab](https://www.languagesciences.cam.ac.uk/departments/language-technology-lab-university-of-cambridge) at the University of Cambridge, and a Senior Scientist at [PolyAI](https://poly.ai/).
 His research interests are in multilingual, multimodal and modular representation learning, and transfer learning for low-resource languages and applications such as task-oriented dialogue systems. 
 
 ### Program Committee
