@@ -29,4 +29,44 @@ Ivan is a Principal Research Associate and a Royal Society University Research F
 His research interests are in multilingual, multimodal and modular representation learning, and transfer learning for low-resource languages and applications such as task-oriented dialogue systems. 
 
 ### Program Committee
-A list of program committee members will be available shortly.
+Below are our program committee members.
+- Aarne Talman
+- Alan Anseli
+- Alessandro Raganato
+- Alexandra Chronopoulou
+- Barry Haddow
+- Benjamin Minixhofer
+- Clifton A Poth
+- David Ifeoluwa Adelani
+- Dušan Variš
+- Elaine Zosa
+- Evgeniia Razumovskaia
+- Fabian David Schmidt
+- Filip Ginter
+- Hande Celikkanat
+- Hannah Sterz
+- Jindřich Helcl
+- Joakim Nivre
+- Joseph Attieh
+- Julia Kreutzer
+- Kelly Marchisio
+- Lucas Caccia
+- Lukas Edman
+- Marianna Apidianaki
+- Marinela Parović
+- Marzieh Fadaee
+- Mathias Creutz
+- Miikka Silfverberg
+- Mikko Aulamo
+- Nico Daheim
+- Niki Andreas Loppi
+- Ona De Gibert Bonet
+- Sampo Pyysalo
+- Shaoxiong Ji
+- Stig-Arne Grönroos
+- Taido Purason
+- Teemu Vahtola
+- Tommi Nieminen
+- Väinö Hatanpää
+- Xinyi Wang
+- Yves Scherrer
