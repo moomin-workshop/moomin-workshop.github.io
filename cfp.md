@@ -4,7 +4,7 @@ We invite submissions to the first edition of the MOOMIN workshop on Modular and
 
 ### Important Dates
 
-- Workshop paper due: December 18, 2023
+- Workshop paper due: ~December 18, 2023~ Extended to December 22, 2023
 - Commitment deadline (for pre-reviewed ARR & main conference submissions): January 17, 2024
 - Notification of acceptance: January 20, 2024
 - Camera-ready papers due: January 30 2024
