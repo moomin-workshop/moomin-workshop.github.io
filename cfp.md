@@ -1,6 +1,10 @@
-[**_Link to the submission website_**](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN)
+[**_Link to the submission website for ARR commitment_**](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN_ARR_Commitment)
+
+[Link to the submission website for direct reviewing](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN)
+
 
 We invite submissions to the first edition of the MOOMIN workshop on Modular and Open Multilingual NLP, to be held at EACL 2024 on March 21 or 22, 2024.
+_**New:** Authors of papers rejected to EACL may submit their ARR-reviewed papers through the link above. Findings authors can also use the same link if they wish to present their paper at MOOMIN._
 
 ### Important Dates
 
@@ -41,4 +45,4 @@ Authors are invited to submit original and unpublished research papers in the fo
 
 All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN) and should follow the EACL 2024 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)). 
 
-We also intend to invite papers accepted to Findings to reach out to the organizing committee of MOOMIN to present their papers at the workshop, if in line with the topics as described above.
+<!-- We also intend to invite papers accepted to Findings to reach out to the organizing committee of MOOMIN to present their papers at the workshop, if in line with the topics as described above. -->
