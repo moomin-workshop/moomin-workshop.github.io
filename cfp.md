@@ -3,16 +3,16 @@
 [Link to the submission website for direct reviewing](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN)
 
 
-We invite submissions to the first edition of the MOOMIN workshop on Modular and Open Multilingual NLP, to be held at EACL 2024 on March 21 or 22, 2024.
+We invite submissions to the first edition of the MOOMIN workshop on Modular and Open Multilingual NLP, to be held at EACL 2024 on March 21, 2024.
 _**New:** Authors of papers rejected to EACL may submit their ARR-reviewed papers through the link above. Findings authors can also use the same link if they wish to present their paper at MOOMIN  (TBC)._
 
 ### Important Dates
 
 - Workshop paper due: Extended to December 22, 2023
-- Commitment deadline (for pre-reviewed ARR & main conference submissions): January 17, 2024
-- Notification of acceptance: January 20, 2024
+- Commitment deadline (for pre-reviewed ARR & main conference submissions): January 20, 2024 **[extended]**
+- Notification of acceptance: January 22, 2024
 - Camera-ready papers due: January 30 2024
-- Workshop dates: March 21-22, 2024
+- Workshop dates: March 21, 2024
 
 
 ### Introduction
