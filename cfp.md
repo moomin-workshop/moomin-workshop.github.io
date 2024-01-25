@@ -1,10 +1,4 @@
-[**_Link to the submission website for ARR commitment_**](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN_ARR_Commitment)
-
-[Link to the submission website for direct reviewing](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN)
-
-
-We invite submissions to the first edition of the MOOMIN workshop on Modular and Open Multilingual NLP, to be held at EACL 2024 on March 21, 2024.
-_**New:** Authors of papers rejected to EACL may submit their ARR-reviewed papers through the link above. Findings authors can also use the same link if they wish to present their paper at MOOMIN._
+ We invite submissions to the first edition of the MOOMIN workshop on Modular and Open Multilingual NLP, to be held at EACL 2024 on March 21, 2024. Authors of papers rejected to EACL may submit their ARR-reviewed papers through the link above. Findings authors can also use the same link if they wish to present their paper at MOOMIN.
 
 ### Important Dates
 
@@ -13,6 +7,11 @@ _**New:** Authors of papers rejected to EACL may submit their ARR-reviewed paper
 - Notification of acceptance: January 22, 2024
 - Camera-ready papers due: January 30 2024
 - Workshop dates: March 21, 2024
+
+[Link to the submission website for ARR commitment](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN_ARR_Commitment)
+
+[Link to the submission website for direct reviewing](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN)
+
 
 
 ### Introduction
@@ -42,6 +41,8 @@ With this in mind, the MOOMIN workshop invites contributions related but not lim
 Authors are invited to submit original and unpublished research papers in the following categories:
  - Full papers (up to 8 pages) for substantial contributions
  - Short papers (up to 4 pages) for ongoing or preliminary work.
+
+**NB:** As per usual *ACL policies, authors of accepted papers are allowed 1 extra page (total of 9 pages for long and 5 pages for short) to account for reviewers' comment in their final camera-ready version.
 
 All submissions must be in PDF format, submitted electronically via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2024/Workshop/MOOMIN) and should follow the EACL 2024 formatting guidelines (following the [ARR CfP](https://aclrollingreview.org/cfp): use the official ACL style templates, which are available [here](https://github.com/acl-org/acl-style-files)). 
 
