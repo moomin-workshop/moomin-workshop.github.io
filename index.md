@@ -1,4 +1,4 @@
-Welcome to the website for the MOOMIN workshop, the first workshop on Modular and Open Multilingual NLP, to be held at [EACL 2024 in Malta](https://2024.eacl.org/).
+Welcome to the website for the MOOMIN workshop, the first workshop on Modular and Open Multilingual NLP, to be held at [EACL 2024 in Malta](https://2024.eacl.org/) on March 21st.
 
 <!-- **_This website is still under construction._** -->
 
