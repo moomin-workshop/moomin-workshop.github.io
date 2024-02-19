@@ -1,8 +1,13 @@
 ## Schedule
+
    *Location*: Corinthia, ROOM: Bastion 2
+   
 **09:15 AM - 09:30 AM**: Opening Remarks
+
 **09:30 AM - 10:30 AM**: Keynote 1: Edoardo M. Ponti
+
 **10:30 AM - 11:00 AM**: Coffee Break
+
 **11:00 AM - 12:20 PM**: Session 1: Efficient use of Adapters
 - **Papers**:
 	- The Impact of Language Adapters in Cross-Lingual Transfer for NLU 
@@ -15,6 +20,7 @@
 			*Teemu Vahtola and Mathias Creutz*
 			
 **12:20 PM - 02:00 PM**: Lunch Break
+
 **02:00 PM - 03:30 PM**: Session 2: Selection and weighting of modules
  - **Papers**:
 	  - Mixing and Matching: Combining Independently Trained Translation Model Components
@@ -32,7 +38,9 @@
 			*Pinzhen Chen, Shaoxiong Ji, Nikolay Bogoychev, Andrey Kutuzov, Barry Haddow and Kenneth Heafield*
 
 **03:40 PM - 04:00 PM**: Coffee Break
+
 **04:00 PM - 05:00 PM**: Keynote 2: Angela Fan
+
 **05:00 PM - 05:20 PM**: Closing Remarks
 
 ## Detailed information
