@@ -54,6 +54,9 @@
 [Edoardo M. Ponti](https://ducdauge.github.io/) is a Lecturer (≈ Assistant Professor) in Natural Language Processing at the University of Edinburgh, where he is part of the Institute for Language, Cognition, and Computation (ILCC), and an Affiliated Lecturer at the University of Cambridge. Previously, he was a visiting postdoctoral scholar at Stanford University and a postdoctoral fellow at Mila and McGill University in Montreal. In 2021, he obtained a PhD in computational linguistics from the University of Cambridge, St John’s College. His main research foci are modular deep learning, sample-efficient learning, faithful text generation, computational typology and multilingual NLP. His research earned him a Google Research Faculty Award and 2 Best Paper Awards at EMNLP 2021 and RepL4NLP 2019. He is a board member and co-founder of SIGTYP, the ACL special interest group for computational typology, and a scholar of the European Lab for Learning and Intelligent Systems (ELLIS). He is a (terrible) violinist, football player, and an aspiring practitioner of heroic viticulture.
 
 
+![Edoardo M. Ponti](/assets/img/frame-Afan.png)
+
+
 #### Angela Fan
 Angela is a research scientist at Meta AI Research in New York, focusing on research in text generation. Currently, Angela works on language modeling and developing the line AI Agents Meta products. Recent research projects include [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/), [Universal Speech Translation for Unwritten Languages](https://ai.facebook.com/blog/ai-translation-hokkien/), and [Llama2](https://ai.meta.com/llama/).
 
