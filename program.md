@@ -21,7 +21,7 @@
 			
 **12:20 PM - 02:00 PM**: Lunch Break
 
-**02:00 PM - 03:30 PM**: Session 2: Selection and weighting of modules
+**02:00 PM - 03:00 PM**: Session 2: Selection and weighting of modules
  - **Papers**:
 	  - Mixing and Matching: Combining Independently Trained Translation Model Components
 			*Taido Purason, Andre Tättar and Mark Fishel*
@@ -30,7 +30,7 @@
       - What the Weight?! A Unified Framework for Zero-Shot Knowledge Composition
 	        *Carolin Holtermann, Markus Frohmann, Navid Rekabsaz and Anne Lauscher*
 	        
-**03:00 PM - 04:00 PM**: Session 3: Tuning LLMs
+**03:00 PM - 03:40 PM**: Session 3: Tuning LLMs
  - **Papers**:
 	- Soft Prompt Tuning for Cross-Lingual Transfer: When Less is More
 			*Fred Philippy, Siwen Guo, Shohreh Haddadan, Cedric Lothritz, Jacques Klein and Tegawendé F. Bissyandé*
